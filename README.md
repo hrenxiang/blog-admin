@@ -21,7 +21,7 @@
 
 ### 富文本编辑器
 
-![富文本编辑器](https://images.huangrx.cn/uploads/2023/06/18/1687084178754.png)
+![富文本编辑器](https://images.huangrx.cn/uploads/2023/06/18/1687085595648.png)
 
 ### 图表整合
 
