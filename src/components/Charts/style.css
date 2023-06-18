@@ -1,0 +1,49 @@
+
+
+@media screen and (min-width: 1024px) {
+    .chart-canvas {
+        width: 514px !important;
+        height: 257px !important;
+
+        margin: auto;
+    }
+
+    .circle-chart-canvas {
+        width: 360px !important;
+        height: 360px !important;
+
+        margin: auto;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .chart-canvas {
+        width: 856px !important;
+        height: 428px !important;
+
+        margin: auto;
+    }
+
+    .circle-chart-canvas {
+        width: 428px !important;
+        height: 428px !important;
+
+        margin: auto;
+    }
+}
+
+@media screen and (min-width: 1536px) {
+    .chart-canvas {
+        width: 1000px !important;
+        height: 500px !important;
+
+        margin: auto;
+    }
+
+    .circle-chart-canvas {
+        width: 538px !important;
+        height: 538px !important;
+
+        margin: auto;
+    }
+}

@@ -1,0 +1,7 @@
+.ant-table {
+    border-radius: 2rem !important;
+}
+
+.ant-table-thead >tr>th {
+    background: inherit !important;
+}

@@ -1,0 +1,6 @@
+.custom_breadcrumb .ant-breadcrumb-separator,
+.custom_breadcrumb .ant-breadcrumb-link {
+    --tw-text-opacity: 1 !important;
+    color: rgb(156 163 175 / var(--tw-text-opacity)) !important;
+}
+
